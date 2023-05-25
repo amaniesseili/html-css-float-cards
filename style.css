@@ -28,6 +28,7 @@ h1{
     width: 33%;
     height:100px ;
     background-color: black;
+    
 }
 
 
@@ -50,12 +51,15 @@ h1{
 .work{
     color: white;
     margin: 10px;
+    font-size: 10px;
 
 }
 
 .decoration-link{
     text-decoration: none;
     color: cornflowerblue;
-
+    font-size: 12px;
 }
+
+/* come posso centrare il testo verticalmente dento il box nero */
 
