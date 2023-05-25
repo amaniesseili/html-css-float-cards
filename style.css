@@ -20,5 +20,42 @@ h1{
 
 .description-p{
     text-align: center;
+    padding-bottom: 40px;
     
 }
+
+.box{
+    width: 33%;
+    height:100px ;
+    background-color: black;
+}
+
+
+.personal-data{
+    display: inline-block;
+
+}
+.img{
+    width:30% ;
+    height: 100%;
+    
+}
+
+.name{
+    color: white;
+    margin: 10px;
+    
+}
+
+.work{
+    color: white;
+    margin: 10px;
+
+}
+
+.decoration-link{
+    text-decoration: none;
+    color: cornflowerblue;
+
+}
+
