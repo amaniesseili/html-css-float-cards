@@ -28,6 +28,7 @@ h1{
     width: 33%;
     height:100px ;
     background-color: black;
+    float: left;
     
 }
 
@@ -62,4 +63,5 @@ h1{
 }
 
 /* come posso centrare il testo verticalmente dento il box nero */
+
 
